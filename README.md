@@ -2,7 +2,7 @@
 
 ## Introduction
 A simple Natural Language Processing tool for multipurpose application.
-The primary objective of this project is to provide a user inteface to manually develop any text corpus (translation by human translator). Machine translation system requires training data in text format. The conventional format for a text corpus is a tab-seperated text file where the source and target sentences are stored along with a tab (white space). This application gives user flexibility to choose any pair of languages as the source and target data. The user can skip any number of source data if they do want to translate them at that moment. The skipped data is stored in seperate files, and user can reuse them again as source data. 
+The primary objective of this project is to provide a user interface to manually develop any text corpus (translation by human translator). Machine translation system requires training data in text format. The conventional format for a text corpus is a tab-seperated text file where the source and target sentences are stored along with a tab (white space). This application gives user flexibility to choose any pair of languages as the source and target data. The user can skip any number of source data if they do want to translate them at that moment. The skipped data is stored in seperate files, and user can reuse them again as source data. 
 
 
 ## Project Setup
